@@ -1,24 +1,24 @@
 # Recov
 Plataforma SaaS para la gestión médica y trazabilidad de lesiones en clubes deportivos (MVP TETS 2026)"
 
-# 🏅 Recov - MVP (Taller de Emprendimiento Tecnológico 2026)
+# Recov - MVP (Taller de Emprendimiento Tecnológico 2026)
 
 Plataforma SaaS B2B para la gestión médica y trazabilidad de lesiones en clubes deportivos amateur y semiprofesionales.
 
-## 👥 Equipo
+##  Equipo
 * Vicente Salgado
 * Matías San Martín
 * Benjamín Carretón
 * José Tomás Logan
 * Romano Piazzoli
 
-## 🏗️ Arquitectura Tecnológica (Frente Técnico 2.5)
+##  Arquitectura Tecnológica (Frente Técnico 2.5)
 * **IDE & UI:** Cursor AI Code Editor + v0 by Vercel
 * **Frontend:** React / Next.js
 * **Backend as a Service (BaaS):** Supabase (Auth, Database, Storage)
 * **Despliegue:** Vercel
 
-## 📌 Product Backlog Priorizado (Must Have)
+## Product Backlog Priorizado (Must Have)
 1. Autenticación de usuarios por rol (Cuerpo Técnico / Jugador).
 2. Alta, gestión y semáforo de disponibilidad de jugadores.
 3. Registro de nueva lesión y actualización de línea de tiempo/fases.
