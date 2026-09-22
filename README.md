@@ -18,7 +18,7 @@ Plataforma SaaS B2B para la gestión médica y trazabilidad de lesiones en clube
 * **Backend as a Service (BaaS):** Supabase (Auth, Database, Storage)
 * **Despliegue:** Vercel
 
-## Product Backlog Priorizado (Must Have)
+## Product Backlog Priorizado
 1. Autenticación de usuarios por rol (Cuerpo Técnico / Jugador).
 2. Alta, gestión y semáforo de disponibilidad de jugadores.
 3. Registro de nueva lesión y actualización de línea de tiempo/fases.
