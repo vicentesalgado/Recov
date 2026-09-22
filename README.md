@@ -25,7 +25,7 @@ Plataforma SaaS B2B para la gestión médica y trazabilidad de lesiones en clube
 4. Carga segura de documentación médica (PDF/Imágenes).
 5. Dashboard centralizado para el cuerpo técnico.
 
-## ⚖️ Gobernanza y Confianza
+## Gobernanza y Confianza
 1. **Veracidad Documental:** El estado de disponibilidad solo cambia con el respaldo de un documento médico cargado.
 2. **Privacidad de Roles:** El jugador solo ve su ficha; el DT tiene acceso global al plantel.
 3. **Límites de IA (Should Have):** El asistente no diagnostica, solo resume documentos reales (RAG).
