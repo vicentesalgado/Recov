@@ -8,7 +8,7 @@ Plataforma SaaS B2B para la gestión médica y trazabilidad de lesiones en clube
 ##  Equipo
 * Vicente Salgado
 * Matías San Martín
-* Benjamín Carretón
+* Benjamín Garretón
 * José Tomás Logan
 * Romano Piazzoli
 
