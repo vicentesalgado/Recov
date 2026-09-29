@@ -13,11 +13,11 @@ Plataforma SaaS B2B para la gestión médica y trazabilidad de lesiones en clube
 * Romano Piazzoli
 
 ##  Arquitectura Tecnológica (Frente Técnico 2.5)
-IDE & UI: Cursor AI Code Editor + v0 by Vercel
-  Frontend: React / Next.js
-  Backend as a Service (BaaS): Supabase (Auth, Database, Storage)
-  Despliegue: Vercel
-  Inteligencia artificial:OpenIA o Gemini   
+1. IDE & UI: Cursor AI Code Editor + v0 by Vercel
+2. Frontend: React / Next.js
+3. Backend as a Service (BaaS): Supabase (Auth, Database, Storage)
+4. Despliegue: Vercel
+5. Inteligencia artificial:OpenIA o Gemini   
 
 ## Product Backlog Priorizado
 1. Autenticación de usuarios por rol (Cuerpo Técnico / Jugador).
