@@ -17,6 +17,7 @@ Plataforma SaaS B2B para la gestión médica y trazabilidad de lesiones en clube
 * **Frontend:** React / Next.js
 * **Backend as a Service (BaaS):** Supabase (Auth, Database, Storage)
 * **Despliegue:** Vercel
+* **Inteligencia artificial:**OpenIA o Gemini   
 
 ## Product Backlog Priorizado
 1. Autenticación de usuarios por rol (Cuerpo Técnico / Jugador).
