@@ -1,9 +1,9 @@
 # Recov
-Plataforma SaaS para la gestión médica y trazabilidad de lesiones en clubes deportivos (MVP TETS 2026)
+Plataforma SaaS para la gestión médica y trazabilidad de lesiones en clubes deportivos
 
 # Recov - MVP
 
-Plataforma SaaS B2B para la gestión médica y trazabilidad de lesiones en clubes deportivos amateur y semiprofesionales.
+Plataforma SaaS B2B para la gestión médica y trazabilidad de lesiones en clubes deportivos amateur.
 
 ##  Equipo
 * Vicente Salgado
